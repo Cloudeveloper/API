@@ -1,1 +1,1 @@
-<embed type="text" src="hey"  width="500" height="200">
+?author=Auth-Text&title=Title-Text&description=Desc-Text&color=de85ff&image=hh&redirect=redir
